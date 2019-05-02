@@ -1,6 +1,0 @@
-C:\Users\tester\source\repos\NetWatch\NetWatch\bin\Debug\NetWatch.exe
-C:\Users\tester\source\repos\NetWatch\NetWatch\bin\Debug\NetWatch.pdb
-C:\Users\tester\source\repos\NetWatch\NetWatch\obj\Debug\NetWatch.csprojAssemblyReference.cache
-C:\Users\tester\source\repos\NetWatch\NetWatch\obj\Debug\NetWatch.csproj.CoreCompileInputs.cache
-C:\Users\tester\source\repos\NetWatch\NetWatch\obj\Debug\NetWatch.exe
-C:\Users\tester\source\repos\NetWatch\NetWatch\obj\Debug\NetWatch.pdb
